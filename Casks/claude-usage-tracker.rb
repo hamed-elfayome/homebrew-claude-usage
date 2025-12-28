@@ -1,6 +1,6 @@
 cask "claude-usage-tracker" do
   version "2.0.0"
-  sha256 "f62b425f96dce4b9a7ffd0ff541f3fd37ac8dd9d731cc84fddd5e9a564451fee"
+  sha256 "e888d669b0d9501c9fd2f1af9fa991f037f874a62d54648b4770e746dcef5e5d"
 
   url "https://github.com/hamed-elfayome/Claude-Usage-Tracker/releases/download/v#{version}/Claude-Usage.zip"
   name "Claude Usage Tracker"
