@@ -22,11 +22,7 @@ cask "claude-usage-tracker" do
 
   caveats <<~EOS
     Claude Usage Tracker requires a session key from claude.ai to function.
-
     On first launch, you'll be guided through setup to extract your session key.
-
-    Note: This app is not signed with an Apple Developer certificate.
-    You'll need to approve it in System Settings → Privacy & Security on first launch.
 
     For more information, visit: https://github.com/hamed-elfayome/Claude-Usage-Tracker
   EOS
