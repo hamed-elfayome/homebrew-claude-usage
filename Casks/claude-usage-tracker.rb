@@ -15,8 +15,8 @@ cask "claude-usage-tracker" do
   app "Claude Usage.app"
 
   zap trash: [
-    "~/Library/Preferences/com.hamed.Claude-Usage.plist",
-    "~/Library/Application Support/com.hamed.Claude-Usage",
+    "~/Library/Preferences/HamedElfayome.Claude-Usage.plist",
+    "~/Library/Application Support/Claude Usage",
     "~/.claude-session-key",
   ]
 
